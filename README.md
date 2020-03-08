@@ -12,7 +12,7 @@ If the architecture's arm64, download kalifs-arm64-full.tar.xz
 #here's the missing
 Might be u've some problems like this "how to fix, chroot: cant execute /bin/bash in nethunter-terminal
 
-Don't worry, ive too :)
+Don't worry, i'd have too :)
 The problem's u've wrong to choose downloaded the nethunter-terminal.apk
 Don't download from klick button "download store app"
 But, u've to scroll down and click "download apk" which the size's 7.1 MiB.
