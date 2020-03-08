@@ -18,4 +18,9 @@ Don't download from klick button "download store app"
 But, u've to scroll down and click "download apk" which the size's 7.1 MiB.
 Install it, and open it the app then u'll see the differences :)
 
+Here's official Nethunter, u can download it.
+https://store.nethunter.com/packages/com.offsec.nethunter/
+
+
+
 Hopefully solve it..
